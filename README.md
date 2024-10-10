@@ -12,9 +12,13 @@
 
 ## Project Overview
 
-In this project, we aim to help Hotel Management Inc. better understand the factors that contribute to customer satisfaction and higher ratings through an analysis of hotel reviews.
+The goal of this project is to predict customer satisfaction based on their reviews.
 
-Using a dataset consisting of both positive and negative customer comments along with other details about each stay (e.g., location, length of stay), we predict customer satisfaction based on the Reviewer_Score, where a higher score indicates a more positive experience.
+To achieve this, we will use a dataset containing both positive and negative reviews. By applying NLP models, we aim to predict customer satisfaction based on their feedback.
+
+Link to the dataset used: https://drive.google.com/file/d/1peaWkWDkbDPbDNWZrEejuSGx3lZo6NfJ/view?usp=sharing
+Link to the project notebook: 
+
 
 
 
