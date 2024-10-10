@@ -3,7 +3,7 @@
 <div align="center">
 
   # BrainStation Project
-### Natural language processing (NLP) Hotel Reviews
+## Natural language processing (NLP) Hotel Reviews
 
   </a>
 
@@ -16,11 +16,11 @@ The goal of this project is to predict customer satisfaction based on their revi
 
 To achieve this, we will use a dataset containing both positive and negative reviews. By applying NLP models, we aim to predict customer satisfaction based on their feedback.
 
-- Link to the dataset used: https://drive.google.com/file/d/1peaWkWDkbDPbDNWZrEejuSGx3lZo6NfJ/view?usp=sharing
-- Link to the project [Jupyter Notebook](NLP_With_Hotel_Review.ipynb)
+- **Link to the dataset used**: https://drive.google.com/file/d/1peaWkWDkbDPbDNWZrEejuSGx3lZo6NfJ/view?usp=sharing
+- **Link to the project**: [Jupyter Notebook](NLP_With_Hotel_Review.ipynb)
 
 
-# Project Workflow
+## Project Workflow
 
 The steps followed during the process were as follows:
 
